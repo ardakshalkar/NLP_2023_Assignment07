@@ -1,0 +1,11 @@
+ұлар    noun
+бала    noun
+қарбыз  noun
+бас noun
+қала    noun
+батыр   noun
+қарға   noun
+кеме    noun
+қар noun
+жат verb
+жүр verb
